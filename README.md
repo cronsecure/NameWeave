@@ -1,4 +1,4 @@
-# Generador de mombres de dominio
+# GND
 
 ## Descripción
 Generador de nombres de dominio segun una lista de nombre apellido.
