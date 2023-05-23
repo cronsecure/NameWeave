@@ -15,9 +15,9 @@ Nicolas Sobarzo
 3. Ejecuta el siguiente comando para instalar las dependencias: 
 4. pip install argparse
 5. Ejecuta el script de la siguiente manera:
-6.1 python gnd.py -f lista_nombres_apellidos.txt
+6. python gnd.py -f lista_nombres_apellidos.txt
 Reemplaza `lista_nombres_apellidos.txt` con el nombre del archivo que contiene la lista de nombres y apellidos.
-5. El script generará las combinaciones de nombres de usuario y las imprimirá en la salida del terminal.
+7. El script generará las combinaciones de nombres de usuario y las imprimirá en la salida del terminal.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor, abre un problema o envía una solicitud de extracción.
