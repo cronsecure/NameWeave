@@ -1,4 +1,4 @@
-# generador-nombres-dominio
+# Generador de mombres de dominio
 
 ## Descripción
 Generador de nombres de dominio segun una lista de nombre apellido.
@@ -14,7 +14,7 @@ Nicolas Sobarzo
 2. Asegúrate de tener Python 3.x instalado.
 3. Ejecuta el siguiente comando para instalar las dependencias: pip install argparse
 4. Ejecuta el script de la siguiente manera:
-  4.1 python script.py -f lista_nombres_apellidos.txt
+  4.1 python gnd.py -f lista_nombres_apellidos.txt
 Reemplaza `lista_nombres_apellidos.txt` con el nombre del archivo que contiene la lista de nombres y apellidos.
 5. El script generará las combinaciones de nombres de usuario y las imprimirá en la salida del terminal.
 
