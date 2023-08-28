@@ -1,10 +1,10 @@
-# GND
+# NameWeave
 
 ## Descripción
-Generador de nombres de dominio segun una lista de nombre apellido.
+Generador de nombres de dominio segun una lista de nombre y apellido.
 
 ## Autor
-Nicolas Sobarzo
+Cronsecure
 
 ## Requisitos
 - Python 3.x
@@ -15,7 +15,7 @@ Nicolas Sobarzo
 3. Ejecuta el siguiente comando para instalar las dependencias: 
 4. pip install argparse
 5. Ejecuta el script de la siguiente manera:
-6. python gnd.py -f lista_nombres_apellidos.txt
+6. python nameweave.py -f lista_nombres_apellidos.txt
 Reemplaza `lista_nombres_apellidos.txt` con el nombre del archivo que contiene la lista de nombres y apellidos.
 7. El script generará las combinaciones de nombres de usuario y las imprimirá en la salida del terminal.
 
