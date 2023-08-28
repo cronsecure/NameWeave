@@ -8,6 +8,7 @@ def generate_username_combinations(names_lastnames):
         username2 = name.lower() + '.' + lastname.lower()
         username3 = name[0].lower() + '.' + lastname.lower()
         username4 = name[0].lower() + lastname.lower()
+        username5 = name.lower() + '.' + lastname[0].lower()
         combinations.extend([username1, username2, username3, username4])
 
     return combinations
